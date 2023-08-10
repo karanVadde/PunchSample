@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819140066355",
+    "project_id": "punch-app-96962",
+    "storage_bucket": "punch-app-96962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819140066355:android:a5baa643609b83ad68b746",
+        "android_client_info": {
+          "package_name": "com.meerkat.punchtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819140066355-ud4qv7fk4k6ln58v4gtl9smb4go8gup3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi9OF5NtLY967EKRlTq6BX2igL5Zdru7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819140066355-ud4qv7fk4k6ln58v4gtl9smb4go8gup3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
